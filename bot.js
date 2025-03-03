@@ -1,5 +1,5 @@
 require("dotenv").config();
-
+const test = "T";
 // Now use these variables in your code
 
 const { Client, GatewayIntentBits } = require("discord.js");
